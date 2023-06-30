@@ -1,0 +1,26 @@
+{
+  "name": "fcm_middleware_example",
+  "version": "1.0.0",
+  "description": "Example project exploring FCM integration into existing express application ",
+  "main": "index.js",
+  "author": "Shawaf Mohammed",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./helpers/push_package.js"
+  },
+  "dependencies": {
+    "archiver": "^5.3.1",
+    "express": "^4.18.2",
+    "fcm-node": "^1.6.1",
+    "firebase-admin": "10.0.0",
+    "firebase-functions": "4.4.1",
+    "install": "0.13.0",
+    "mongoose": "^5.9.21",
+    "nodemon": "^2.0.22",
+    "npm": "9.7.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.17"
+  }
+}

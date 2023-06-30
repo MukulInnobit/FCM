@@ -1,0 +1,21 @@
+{
+
+    "webServiceURL":
+    "https://familyprohealth.com",
+    
+    "websitePushID":
+    "web.com.familyprohealth.fph",
+    
+    "websiteName":
+    "Family Pro Health",
+    
+    "allowedDomains":
+    ["https://familyprohealth.com", "http://localhost:3000"],
+    
+    "authenticationToken":
+    "userID=1096172013",
+    
+    "urlFormatString":
+    "http://bayairlines.com/"
+    
+    }
